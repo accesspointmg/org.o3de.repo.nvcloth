@@ -2,13 +2,13 @@
     "values": [
         {
             "$type": "{07B356B7-3635-40B5-878A-FAC4EFD5AD86} MeshGroup",
-            "name": "cloth_blinds",
+            "name": "cloth_locked_corners_two",
             "nodeSelectionList": {
                 "selectedNodes": [
                     "RootNode",
                     "RootNode.pPlane1",
                     "RootNode.pPlane1.Col0",
-                    "RootNode.pPlane1.transform",
+                    "RootNode.pPlane1.custom_properties",
                     "RootNode.pPlane1.map1",
                     "RootNode.pPlane1.lambert1"
                 ]
@@ -31,7 +31,7 @@
                     }
                 ]
             },
-            "id": "{9D0F5F7F-FB90-5C00-97A7-C55F9180CE4E}"
+            "id": "{45EFD81A-7FBC-59E3-B495-280376B40AC5}"
         }
     ]
 }
